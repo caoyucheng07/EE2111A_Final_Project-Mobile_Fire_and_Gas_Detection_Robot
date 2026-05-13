@@ -1,5 +1,4 @@
 # EE2111A_Final_Project-Mobile_Fire_and_Gas_Detection_Robot
-# EE2111A Final Project - Mobile Fire and Gas Detection Robot
 
 ## Overview
 This project is a mobile fire and gas detection robot designed for early hazard detection in areas such as construction sites, labs, or indoor spaces. The robot patrols an area, detects abnormal temperature or gas readings, captures images using an ESP32-CAM, and uses an AI-based local server to confirm potential fire or smoke before raising an alarm.
